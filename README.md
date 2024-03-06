@@ -5,12 +5,12 @@
 ## Descritivo da Atividade (contido no link acima)
 
 ### Crie uma página index.html com os seguintes parâmetros:
-- [ ] ~~Dois títulos centralizados utilizando hierarquia;~~
-- [ ] ~~parágrafos de no mínimo 4 linhas na saída (navegador/interface);~~
-- [ ] ~~10 palavras/frases utilizando alterações de texto como: negrito, sublinhado, itálico;~~
-- [ ] ~~Comentar em cada parágrafo qual seu conteúdo ou proposta;~~
-- [ ] ~~Criar uma parte da interface com um código de programação, pode ser para explicar alguma função;~~
-- [ ] ~~Realizar criação de 3 Listas diferentes com 6 informações cada uma, utilizando quebra de linha visual/visível entre elas.~~
+- [x] ~~Dois títulos centralizados utilizando hierarquia;~~
+- [x] ~~parágrafos de no mínimo 4 linhas na saída (navegador/interface);~~
+- [x] ~~10 palavras/frases utilizando alterações de texto como: negrito, sublinhado, itálico;~~
+- [x] ~~Comentar em cada parágrafo qual seu conteúdo ou proposta;~~
+- [x] ~~Criar uma parte da interface com um código de programação, pode ser para explicar alguma função;~~
+- [x] ~~Realizar criação de 3 Listas diferentes com 6 informações cada uma, utilizando quebra de linha visual/visível entre elas.~~
 
 #### Importante
 1) Todos os itens da interface devem ter quebra de linha, exceto os parágrafos.
